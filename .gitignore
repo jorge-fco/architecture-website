@@ -1,3 +1,17 @@
+#= EDITOR
+prepros.config
+desktop.ini
+prepros.cfg
+prepros-6.config
+
+#= CSS
+assets/css/*
+assets/scss/*
+
+#= PUG
+*.pug
+*.html
+
 # Logs
 .DS_Store
 logs
@@ -129,3 +143,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
