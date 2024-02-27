@@ -1,2 +1,2 @@
-# architecture-website
+# Architecture Website
 Architecture Website
